@@ -1,3 +1,10 @@
+Url voor naar github te gaan:
+https://github.com/
+hier dan inloggen 
+en dan clicken op de repository  antoinevromen/Stamboom 
+
+n.b. de gepubliceerde website staat onder : https://antoinevromen.github.io/Stamboom/
+
 In de directory W:\deel2\webpage\TBVDHOST\OPWEBSITEGEZET gaan staan
 Dan rechtermuisclick op gitbash
 
@@ -13,6 +20,7 @@ git push -u origin main
 Vullen repository met nieuwe bestanden
 git add .
 git commit -m "tweede commit" .          (n.b. de . voor de hele directory aan het einde van de regel !!)
+git push -u origin main
 
 Updaten repository met bijgewerkte bestanden
 
