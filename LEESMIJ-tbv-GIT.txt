@@ -1,0 +1,23 @@
+In de directory W:\deel2\webpage\TBVDHOST\OPWEBSITEGEZET gaan staan
+Dan rechtermuisclick op gitbash
+
+Dan onderstaande in Git uitvoeren voor het aanmaken van een nieuwe repository:
+echo "# Stamboom" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/antoinevromen/Stamboom.git
+git push -u origin main
+
+Vullen repository met nieuwe bestanden
+git add .
+git commit -m "tweede commit" .          (n.b. de . voor de hele directory aan het einde van de regel !!)
+
+Updaten repository met bijgewerkte bestanden
+
+
+Andere commando's
+git status     (om de status van de repository te zien)
+
+
