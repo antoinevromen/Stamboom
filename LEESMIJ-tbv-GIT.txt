@@ -22,7 +22,8 @@ git add .
 git commit -m "tweede commit" .          (n.b. de . voor de hele directory aan het einde van de regel !!)
 git push -u origin main
 
-Updaten repository met bijgewerkte bestanden
+Publish alle files gebeurt automatisch na ca. 10 minuten
+
 
 
 Andere commando's
