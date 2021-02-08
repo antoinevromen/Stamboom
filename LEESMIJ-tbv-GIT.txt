@@ -1,6 +1,6 @@
 Url voor naar github te gaan:
 https://github.com/
-hier dan inloggen 
+hier dan inloggen (gaat nu met sms-authentificatie op de telefoon)
 en dan clicken op de repository  antoinevromen/Stamboom 
 
 n.b. de gepubliceerde website staat onder : https://antoinevromen.github.io/Stamboom/
